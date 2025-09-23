@@ -23,7 +23,7 @@ int main(){
     std::cout << initial <<std::endl;
     std::cout << currency <<std::endl;
 
-    //boolean (true or false)
+    //boolean two states(=true or false)
     bool student = true;
     bool forSale = false;
     bool power = true;
