@@ -1,4 +1,4 @@
-<img width="710" height="48" alt="image" src="https://github.com/user-attachments/assets/9b3f490a-09cc-4fd5-9acd-99d3b139294e" />Following is a compilation for structured learning of Fanuc's RoboGuide Software from two playlists from two Youtube Channels: [Elite Automation (EA)](https://www.youtube.com/watch?v=P1N3KHptZz4&list=PLTqtSlyRdKyXfJRGmyCShD50zK1fOOFCk) & [Timothy Mehring (TM)](https://www.youtube.com/playlist?list=PLi3B6-vLWyBq2NP4oFovnQkF-52izIt3o)
+Following is a compilation for structured learning of Fanuc's RoboGuide Software from two playlists from two Youtube Channels: [Elite Automation (EA)](https://www.youtube.com/watch?v=P1N3KHptZz4&list=PLTqtSlyRdKyXfJRGmyCShD50zK1fOOFCk) & [Timothy Mehring (TM)](https://www.youtube.com/playlist?list=PLi3B6-vLWyBq2NP4oFovnQkF-52izIt3o)
 
 RoboGuide basics & first workcell
 
