@@ -45,11 +45,11 @@ Machine tending simulation
 26. [Machine Tending (overview)](https://youtu.be/VgOYqQKvGuM?si=HmiJIHEw7-JdG_Q4) — EA #14
 27. [Machine Tending (deep dive)](https://youtu.be/LXF8qqw4Y_I?si=f6ot4JQr_zFtj94f) — EA #15
 28. [Auto Backward Exit](https://youtu.be/DztwLY18U6Y?si=oEdx-ushclN_5Mfw) — EA #17
-29. [Opening and Closing a Tool](https://youtu.be/3UsZ-pQ7S-Y?si=0PJzVEts9_UTgg5I)
+29. [Opening and Closing a Tool](https://youtu.be/3UsZ-pQ7S-Y?si=0PJzVEts9_UTgg5I) — EA #8
 30. [Animating Lathe in RoboGuide](https://youtu.be/zAxZzcYGVto?si=799jLM0lI0UCFDx_) — TM #9
 31. [Programming Lathe Cell Video 1](https://youtu.be/SBT5FApzoZs?si=rHHO-ssWqtTG1yNs) — TM #14
-32. [Programming lathe Cell Video 2](https://youtu.be/_BTDcHi-rmY?si=G9k_nwcNuP73SvEW) - TM #12
-33. [Programming lathe Cell Video 3](https://youtu.be/v0Z0siVd3lE?si=S5o7GDDdwl2oWVu9) - TM #13
+32. [Programming lathe Cell Video 2](https://youtu.be/_BTDcHi-rmY?si=G9k_nwcNuP73SvEW) — TM #12
+33. [Programming lathe Cell Video 3](https://youtu.be/v0Z0siVd3lE?si=S5o7GDDdwl2oWVu9) — TM #13
 
 Conveyors & pick from moving belt
 
