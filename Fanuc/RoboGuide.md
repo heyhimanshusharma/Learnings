@@ -1,4 +1,4 @@
-Following is a compilation for structured learning of Fanuc's RoboGuide Software from two playlists from two Youtube Channels: [Elite Automation (EA)](https://www.youtube.com/watch?v=P1N3KHptZz4&list=PLTqtSlyRdKyXfJRGmyCShD50zK1fOOFCk) & [Timothy Mehring (TM)](https://www.youtube.com/playlist?list=PLi3B6-vLWyBq2NP4oFovnQkF-52izIt3o)
+<img width="710" height="48" alt="image" src="https://github.com/user-attachments/assets/9b3f490a-09cc-4fd5-9acd-99d3b139294e" />Following is a compilation for structured learning of Fanuc's RoboGuide Software from two playlists from two Youtube Channels: [Elite Automation (EA)](https://www.youtube.com/watch?v=P1N3KHptZz4&list=PLTqtSlyRdKyXfJRGmyCShD50zK1fOOFCk) & [Timothy Mehring (TM)](https://www.youtube.com/playlist?list=PLi3B6-vLWyBq2NP4oFovnQkF-52izIt3o)
 
 RoboGuide basics & first workcell
 
@@ -45,7 +45,7 @@ Machine tending simulation
 26. [Machine Tending (overview)](https://youtu.be/VgOYqQKvGuM?si=HmiJIHEw7-JdG_Q4) — EA #14
 27. [Machine Tending (deep dive)](https://youtu.be/LXF8qqw4Y_I?si=f6ot4JQr_zFtj94f) — EA #15
 28. [Auto Backward Exit](https://youtu.be/DztwLY18U6Y?si=oEdx-ushclN_5Mfw) — EA #17
-29. [](https://youtu.be/3UsZ-pQ7S-Y?si=0PJzVEts9_UTgg5I)
+29. [Opening and Closing a Tool](https://youtu.be/3UsZ-pQ7S-Y?si=0PJzVEts9_UTgg5I)
 30. [Animating Lathe in RoboGuide](https://youtu.be/zAxZzcYGVto?si=799jLM0lI0UCFDx_) — TM #9
 31. [Programming Lathe Cell Video 1](https://youtu.be/SBT5FApzoZs?si=rHHO-ssWqtTG1yNs) — TM #14
 32. [Programming lathe Cell Video 2](https://youtu.be/_BTDcHi-rmY?si=G9k_nwcNuP73SvEW) - TM #12
