@@ -47,44 +47,46 @@ Machine tending simulation
 28. [Auto Backward Exit](https://youtu.be/DztwLY18U6Y?si=oEdx-ushclN_5Mfw) — EA #17
 29. [Opening and Closing a Tool](https://youtu.be/3UsZ-pQ7S-Y?si=0PJzVEts9_UTgg5I) — EA #8
 30. [Animating Lathe in RoboGuide](https://youtu.be/zAxZzcYGVto?si=799jLM0lI0UCFDx_) — TM #9
-31. [Programming Lathe Cell Video 1](https://youtu.be/SBT5FApzoZs?si=rHHO-ssWqtTG1yNs) — TM #14
-32. [Programming lathe Cell Video 2](https://youtu.be/_BTDcHi-rmY?si=G9k_nwcNuP73SvEW) — TM #12
-33. [Programming lathe Cell Video 3](https://youtu.be/v0Z0siVd3lE?si=S5o7GDDdwl2oWVu9) — TM #13
+31. [Outfeed table array](https://youtu.be/qPmpKHeaV8g?si=a9MiDmGCPzcYv6Pv) — TM #10
+32. [Modifying the EOAT size](https://youtu.be/049__dyLQ7U?si=DkWLSut9NzblxS5L) — TM #11
+33. [Programming Lathe Cell Video 1](https://youtu.be/SBT5FApzoZs?si=rHHO-ssWqtTG1yNs) — TM #14
+34. [Programming lathe Cell Video 2](https://youtu.be/_BTDcHi-rmY?si=G9k_nwcNuP73SvEW) — TM #12
+35. [Programming lathe Cell Video 3](https://youtu.be/v0Z0siVd3lE?si=S5o7GDDdwl2oWVu9) — TM #13
 
 Conveyors & pick from moving belt
 
-34. [Straight Conveyor Belt Motion](https://youtu.be/URbggqU-rRk?si=Nc8g08DXVBFQNDlq) — TM #2
-35. [Curved Conveyor Belt Motion](https://youtu.be/KamorJHMmro?si=QVfta7Mm8SG3F0_E) — TM #3
-36. [Robot Pick Up From Conveyor](https://youtu.be/lFvaaVS_jyg?si=FVLQjtKbq1gw5WXn) — TM #4
-37. [Setting a Digital Output Based on Position](https://youtu.be/K6eQbrkWcZ0?si=VLprDceBYoo9TQ-e) — EA #18
-38. [Unlocking FANUC Robot IO](https://youtu.be/ukf4C5yc-ww?si=JYdmKate6VCLAwzl) — EA #48
+36. [Straight Conveyor Belt Motion](https://youtu.be/URbggqU-rRk?si=Nc8g08DXVBFQNDlq) — TM #2
+37. [Curved Conveyor Belt Motion](https://youtu.be/KamorJHMmro?si=QVfta7Mm8SG3F0_E) — TM #3
+38. [Robot Pick Up From Conveyor](https://youtu.be/lFvaaVS_jyg?si=FVLQjtKbq1gw5WXn) — TM #4
+39. [Setting a Digital Output Based on Position](https://youtu.be/K6eQbrkWcZ0?si=VLprDceBYoo9TQ-e) — EA #18
+40. [Unlocking FANUC Robot IO](https://youtu.be/ukf4C5yc-ww?si=JYdmKate6VCLAwzl) — EA #48
 
 Palletizing & data structures
 
-39. [Pick and Place to Stack Simulation](https://youtu.be/4Q4DPa2yqSM?si=sqmGlfPjpgU9vzmj) — TM #5
-40. [Pick and Place X/Y Offset](https://youtu.be/IQuTmcw-f38?si=SVY0gi-McdIBD04J) — TM #6
-41. [Pick and Place X/Y/Z Offset](https://youtu.be/f8tqLqMLqkI?si=BkkaSTArdpQ8p3Z4) — TM #7
-42. [Creating Data Structures](https://youtu.be/nzJayzUg09k?si=C_LWeC5XRSFCU3mN) — EA #44
+41. [Pick and Place to Stack Simulation](https://youtu.be/4Q4DPa2yqSM?si=sqmGlfPjpgU9vzmj) — TM #5
+42. [Pick and Place X/Y Offset](https://youtu.be/IQuTmcw-f38?si=SVY0gi-McdIBD04J) — TM #6
+43. [Pick and Place X/Y/Z Offset](https://youtu.be/f8tqLqMLqkI?si=BkkaSTArdpQ8p3Z4) — TM #7
+44. [Creating Data Structures](https://youtu.be/nzJayzUg09k?si=C_LWeC5XRSFCU3mN) — EA #44
 
 DCS safety zones & fine positions
 
-43. [Create DCS User Model](https://youtu.be/J4xiTeR24NE?si=IHgmWS65DKm0GSzy) — EA #6
-44. [Create DCS Zone](https://youtu.be/7-wjpk2u73M?si=paQX753U9Whg9NO3) — EA #8
-45. [Mastering Fine Positions for Precise Robotic Movements](https://youtu.be/VCjFGM1gkxo?si=gY2EAcJei0CLDpg2) — EA #52
-46. [Optimizing Robot Position: Modify Z-Axis for Precise Pickup](https://youtu.be/pMmGNLFAwmg?si=NIcOyRWaLVsfCb7A) — EA #41
-47. [Modifying FANUC Robot Positions](https://youtu.be/TFSib2AF4Vg?si=f8JIPiiZ06NRLbC4) — EA #55
+45. [Create DCS User Model](https://youtu.be/J4xiTeR24NE?si=IHgmWS65DKm0GSzy) — EA #6
+46. [Create DCS Zone](https://youtu.be/7-wjpk2u73M?si=paQX753U9Whg9NO3) — EA #8
+47. [Mastering Fine Positions for Precise Robotic Movements](https://youtu.be/VCjFGM1gkxo?si=gY2EAcJei0CLDpg2) — EA #52
+48. [Optimizing Robot Position: Modify Z-Axis for Precise Pickup](https://youtu.be/pMmGNLFAwmg?si=NIcOyRWaLVsfCb7A) — EA #41
+49. [Modifying FANUC Robot Positions](https://youtu.be/TFSib2AF4Vg?si=f8JIPiiZ06NRLbC4) — EA #55
 
 Multi-robot cells
 
-48. [Multiple Robots Video 1: Setup](https://youtu.be/FwDZrnJrVzg?si=x3GcpRhph61oyB6T) — TM #16
-49. [Multiple Robots Video 2: Cloning](https://youtu.be/jYhUo6RhuR0?si=BSnoDFJAsbXOK5RS) — TM #17
-50. [Multiple Robots Video 3: Position Monitoring](https://youtu.be/HI93ukLyb5c?si=KJnvxay3FYY_PcVV) — TM #18
-51. [Multiple Robots Video 4: Programming](https://youtu.be/J2CLBanB0nA?si=38Ti_MEnsO8c-jin) — TM #19
-52. [Unlocking the Power of PLCs: Advanced](https://youtu.be/E48i26cDRJE?si=gAsyLwXfirPDzvvN) — EA #58
+50. [Multiple Robots Video 1: Setup](https://youtu.be/FwDZrnJrVzg?si=x3GcpRhph61oyB6T) — TM #16
+51. [Multiple Robots Video 2: Cloning](https://youtu.be/jYhUo6RhuR0?si=BSnoDFJAsbXOK5RS) — TM #17
+52. [Multiple Robots Video 3: Position Monitoring](https://youtu.be/HI93ukLyb5c?si=KJnvxay3FYY_PcVV) — TM #18
+53. [Multiple Robots Video 4: Programming](https://youtu.be/J2CLBanB0nA?si=38Ti_MEnsO8c-jin) — TM #19
+54. [Unlocking the Power of PLCs: Advanced](https://youtu.be/E48i26cDRJE?si=gAsyLwXfirPDzvvN) — EA #58
 
 CAD to path, remote access & review
 
-53. [CAD to Path in FANUC RoboGuide](https://youtu.be/FwaerjjU_Ow?si=iQAj9jwyExWodpDI) — TM #22
-54. [Rectangular and CSV Arrays in RoboGuide](https://youtu.be/moEwP-iK6S4?si=5LdHjd69OHH2JPwQ) — TM #23
-55. [How to Remotely Access & Download FANUC Robot Programs](https://youtu.be/1tSulUTBrHo?si=5YKOz6N_YVGz1Zj2) — EA #70
+55. [CAD to Path in FANUC RoboGuide](https://youtu.be/FwaerjjU_Ow?si=iQAj9jwyExWodpDI) — TM #22
+56. [Rectangular and CSV Arrays in RoboGuide](https://youtu.be/moEwP-iK6S4?si=5LdHjd69OHH2JPwQ) — TM #23
+57. [How to Remotely Access & Download FANUC Robot Programs](https://youtu.be/1tSulUTBrHo?si=5YKOz6N_YVGz1Zj2) — EA #70
 56. [Maximizing Efficiency: Programming Tips](https://youtu.be/P0Ef8gwl4go?si=B0fHKvIKmoBNSSF_) — EA #28
