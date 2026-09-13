@@ -1,4 +1,4 @@
-This folder contains the zip files of codes i performed on Wokwi during an Arduino Workshop NPTEL.
+This folder contains the zip files of practicals i performed on Wokwi during an Arduino Workshop NPTEL.
 
 1. LED Blinking
 2. Ultrasonic Sensor
